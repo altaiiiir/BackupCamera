@@ -13,7 +13,8 @@ The Backup Camera is an iOS app that uses the camera and LiDAR sensors to detect
 - Ability to pause beeping when the car is stationary.
 
 ## Demo Video
-![Demo Video](https://github.com/altaiiiir/BackupCamera/blob/main/BackupCameraDemo.mp4)
+
+https://github.com/user-attachments/assets/6f5d3a47-f5b3-46b5-ac6c-05c858a422ff
 
 ## Technologies Used
 
