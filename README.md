@@ -12,6 +12,9 @@ The Backup Camera is an iOS app that uses the camera and LiDAR sensors to detect
 - Progress bar showing the proximity to objects.
 - Ability to pause beeping when the car is stationary.
 
+## Demo Video
+![Demo Video](https://github.com/altaiiiir/BackupCamera/blob/main/BackupCameraDemo.mp4)
+
 ## Technologies Used
 
 - **Swift** for iOS development
@@ -49,6 +52,7 @@ The Backup Camera is an iOS app that uses the camera and LiDAR sensors to detect
 ## Future Enhancements
 - Add GPS location integration for tracking where the user parks
 - Implement customizable distance thresholds for the alert system
+- Improve the beeping system to handle rapid changes in distance
 - Improve the UI design for better user experience during parking
 - Implement this into the actual vehicle by utilizing the OBDII port to detect gear selection
 
