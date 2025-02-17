@@ -4,6 +4,8 @@
 
 The Backup Camera is an iOS app that uses the camera and LiDAR sensors to detect obstacles while reversing. The app provides real-time distance measurements and alerts the user with beeps and visual cues when an object is detected within a threshold distance.
 
+Realistically, it wouldn't be feasible to use this as a backup camera for many reasons but this serves as a demo of the LiDAR capabilities and a PoC for a more advanced ADAS system.
+
 ## Features
 
 - Real-time distance measurement using camera and LiDAR data.
