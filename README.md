@@ -21,7 +21,6 @@ https://github.com/user-attachments/assets/6f5d3a47-f5b3-46b5-ac6c-05c858a422ff
 - **ARKit** for depth sensing and LiDAR integration
 - **AVFoundation** for audio feedback (beeps and vibrations)
 - **UIKit** for UI elements like labels and progress bars
-- **CoreLocation** for potential future GPS integration
 
 ## Getting Started
 
